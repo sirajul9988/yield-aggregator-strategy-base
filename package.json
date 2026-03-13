@@ -1,0 +1,8 @@
+{
+  "name": "yield-aggregator-strategy",
+  "version": "1.0.0",
+  "description": "Yield aggregation and auto-compounding logic",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
